@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sec\\ngoding-bebas\\c#\\minggu1\\week1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{729E3551-1249-4BB0-A6BD-520C5A187EC3}|week1.csproj|d:\\sec\\ngoding-bebas\\c#\\minggu1\\week1\\array_forloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{729E3551-1249-4BB0-A6BD-520C5A187EC3}|week1.csproj|solutionrelative:array_forloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729E3551-1249-4BB0-A6BD-520C5A187EC3}|week1.csproj|d:\\sec\\ngoding-bebas\\c#\\minggu1\\week1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{729E3551-1249-4BB0-A6BD-520C5A187EC3}|week1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729E3551-1249-4BB0-A6BD-520C5A187EC3}|week1.csproj|d:\\sec\\ngoding-bebas\\c#\\minggu1\\week1\\if_else.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{729E3551-1249-4BB0-A6BD-520C5A187EC3}|week1.csproj|solutionrelative:if_else.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729E3551-1249-4BB0-A6BD-520C5A187EC3}|week1.csproj|d:\\sec\\ngoding-bebas\\c#\\minggu1\\week1\\variable_operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{729E3551-1249-4BB0-A6BD-520C5A187EC3}|week1.csproj|solutionrelative:variable_operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729E3551-1249-4BB0-A6BD-520C5A187EC3}|week1.csproj|d:\\sec\\ngoding-bebas\\c#\\minggu1\\week1\\input_output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{729E3551-1249-4BB0-A6BD-520C5A187EC3}|week1.csproj|solutionrelative:input_output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "array_forloop.cs",
+              "DocumentMoniker": "D:\\Sec\\ngoding-bebas\\c#\\minggu1\\week1\\array_forloop.cs",
+              "RelativeDocumentMoniker": "array_forloop.cs",
+              "ToolTip": "D:\\Sec\\ngoding-bebas\\c#\\minggu1\\week1\\array_forloop.cs",
+              "RelativeToolTip": "array_forloop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T07:13:12.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "if_else.cs",
+              "DocumentMoniker": "D:\\Sec\\ngoding-bebas\\c#\\minggu1\\week1\\if_else.cs",
+              "RelativeDocumentMoniker": "if_else.cs",
+              "ToolTip": "D:\\Sec\\ngoding-bebas\\c#\\minggu1\\week1\\if_else.cs",
+              "RelativeToolTip": "if_else.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T07:12:24.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "variable_operator.cs",
+              "DocumentMoniker": "D:\\Sec\\ngoding-bebas\\c#\\minggu1\\week1\\variable_operator.cs",
+              "RelativeDocumentMoniker": "variable_operator.cs",
+              "ToolTip": "D:\\Sec\\ngoding-bebas\\c#\\minggu1\\week1\\variable_operator.cs",
+              "RelativeToolTip": "variable_operator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T07:09:10.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "input_output.cs",
+              "DocumentMoniker": "D:\\Sec\\ngoding-bebas\\c#\\minggu1\\week1\\input_output.cs",
+              "RelativeDocumentMoniker": "input_output.cs",
+              "ToolTip": "D:\\Sec\\ngoding-bebas\\c#\\minggu1\\week1\\input_output.cs",
+              "RelativeToolTip": "input_output.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T07:06:34.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Sec\\ngoding-bebas\\c#\\minggu1\\week1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Sec\\ngoding-bebas\\c#\\minggu1\\week1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T07:06:01.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

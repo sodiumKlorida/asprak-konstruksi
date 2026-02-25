@@ -1,0 +1,15 @@
+D:\Sec\ngoding-bebas\c#\minggu1\week1\bin\Debug\net10.0\week1.exe
+D:\Sec\ngoding-bebas\c#\minggu1\week1\bin\Debug\net10.0\week1.deps.json
+D:\Sec\ngoding-bebas\c#\minggu1\week1\bin\Debug\net10.0\week1.runtimeconfig.json
+D:\Sec\ngoding-bebas\c#\minggu1\week1\bin\Debug\net10.0\week1.dll
+D:\Sec\ngoding-bebas\c#\minggu1\week1\bin\Debug\net10.0\week1.pdb
+D:\Sec\ngoding-bebas\c#\minggu1\week1\obj\Debug\net10.0\week1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sec\ngoding-bebas\c#\minggu1\week1\obj\Debug\net10.0\week1.AssemblyInfoInputs.cache
+D:\Sec\ngoding-bebas\c#\minggu1\week1\obj\Debug\net10.0\week1.AssemblyInfo.cs
+D:\Sec\ngoding-bebas\c#\minggu1\week1\obj\Debug\net10.0\week1.csproj.CoreCompileInputs.cache
+D:\Sec\ngoding-bebas\c#\minggu1\week1\obj\Debug\net10.0\week1.sourcelink.json
+D:\Sec\ngoding-bebas\c#\minggu1\week1\obj\Debug\net10.0\week1.dll
+D:\Sec\ngoding-bebas\c#\minggu1\week1\obj\Debug\net10.0\refint\week1.dll
+D:\Sec\ngoding-bebas\c#\minggu1\week1\obj\Debug\net10.0\week1.pdb
+D:\Sec\ngoding-bebas\c#\minggu1\week1\obj\Debug\net10.0\week1.genruntimeconfig.cache
+D:\Sec\ngoding-bebas\c#\minggu1\week1\obj\Debug\net10.0\ref\week1.dll

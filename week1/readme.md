@@ -18,7 +18,7 @@ Materi difokuskan pada pemahaman fundamental seperti:
 Program utama (`Program.cs`) menjalankan beberapa class pembelajaran berikut:
 
 ```csharp
-Console.WriteLine("topik ngoding 24-02-2026\n");
+Console.WriteLine("topik ngoding 25-02-2026\n");
 
 // CLASS VARIABLE INPUT OUTPUT
 Console.WriteLine("CLASS VARIABLE INPUT OUTPUT");

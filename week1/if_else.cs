@@ -6,6 +6,7 @@ namespace week1
 {
     internal class if_else
     {
+        // FUNGSI IF ELSE
         public static void IfElse()
         {
             int time = 22;

@@ -10,10 +10,12 @@ namespace week1
             int myNum = 5;
             myNum = myNum + 3;
             int myNum2 = 3 * 4;
-            double myDoubleNum = 5.99D;
+            double myDoubleNum = 5.99;
             char myLetter = 'D';
             bool myBool = true;
             string myText = "Hello";
+
+            Console.WriteLine("myNum: " + myDoubleNum);   
         }
     }
 }

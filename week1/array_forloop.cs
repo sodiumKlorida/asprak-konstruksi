@@ -6,6 +6,7 @@ namespace week1
 {
     internal class array_forloop
     {
+        // FUNGSI ARRAY DENGAN FOR LOOP
         public static void ArrayForLoop()
         {
             string[] cars = { "Volvo", "BMW", "Ford", "Mazda" };

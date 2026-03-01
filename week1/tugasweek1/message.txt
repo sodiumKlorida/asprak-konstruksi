@@ -1,0 +1,8 @@
+3. PENGUMPULAN FILE/TUGAS JURNAL
+Kumpulkan semua file berikut dalam bentuk dengan ketentuan:
+A. File name “MODUL2_NIM”
+B. Source code dari project yang dibuat (rar/zip)
+C. File pdf yang berisi:
+i. Screenshot code dan hasil run
+ii. Penjelasan singkat dari kode implementasi yang dibuat (beserta screenshot dari potongan
+source code yang dijelaskan).

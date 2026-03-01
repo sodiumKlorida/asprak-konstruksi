@@ -66,8 +66,8 @@ Operasi yang didukung:
 ---
 
 ## 🔍 Contoh Flow Penggunaan
-Input: 5
-Tekan: +
-Input: 3
-Tekan: =
-Hasil: 8
+- Input: 5
+- Tekan: +
+- Input: 3
+- Tekan: =
+- Hasil: 8

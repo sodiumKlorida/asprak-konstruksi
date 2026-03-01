@@ -1,8 +1,31 @@
 # 📘 Week 1 — Pengenalan C#
 
-Repository ini berisi latihan dasar pemrograman menggunakan bahasa **C#** pada minggu pertama.
+🎥 **Presentasi Materi:**  
+🔗 🔗 [PPT instalasi visual studio](https://www.canva.com/design/DAHCOduPvD4/LyvvX345THGA2vdB6w0rPw/edit?utm_content=DAHCOduPvD4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-Materi difokuskan pada pemahaman fundamental seperti:
+---
+
+Pada minggu pertama praktikum, kita memulai dengan **instalasi tools pengembangan**, kemudian mempelajari dasar-dasar pemrograman menggunakan bahasa **C#**.
+
+---
+
+## 🛠 Instalasi Visual Studio
+
+Langkah awal yang dilakukan:
+
+1. Mengunduh Visual Studio  
+2. Memilih workload **.NET Desktop Development**  
+3. Membuat project baru dengan tipe:
+   - Console App (.NET)  
+4. Menjalankan project pertama menggunakan tombol **Start / Run**
+
+Setelah instalasi berhasil, kita mulai menulis dan menjalankan program C# pertama.
+
+---
+
+## 📚 Materi Dasar yang Dipelajari
+
+Materi difokuskan pada pemahaman fundamental berikut:
 
 - Variable  
 - Input & Output  
@@ -65,11 +88,4 @@ Membahas:
 - Operator perbandingan (`>`, `<`, `==`)  
 - Operator logika  
 
----
-
-## 🎥 Presentasi Materi
-
-Slide presentasi Week 1 dapat diakses melalui link berikut:
-
-🔗 [Lihat Presentasi Canva](https://www.canva.com/design/DAHCOduPvD4/LyvvX345THGA2vdB6w0rPw/edit?utm_content=DAHCOduPvD4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 

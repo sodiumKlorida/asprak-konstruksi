@@ -6,6 +6,7 @@ namespace week1
 {
     internal class variable_operator
     {
+        // FUNGSI VARIABLE OPERATOR
         public static void VariableOperator() {
             int myNum = 5;
             myNum = myNum + 3;

@@ -6,7 +6,7 @@ namespace week1
 {
     internal class input_output
     {
-        // FUNGSI INPUT OUTPUT
+        // FUNGSI INPUT
         public static void InputOutput()
         {
             Console.WriteLine("input your name?");
@@ -14,6 +14,7 @@ namespace week1
             Console.WriteLine("Hello, " + name + "!");
         }
 
+        // FUNGSI OUTPUT
         public void Output() {
             Console.WriteLine("Hello World!");
         }

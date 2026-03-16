@@ -43,7 +43,7 @@ namespace week3
         // STATE START
         public static State Start()
         {
-            Console.WriteLine("START SCREEN");
+            Console.WriteLine("\nSTART SCREEN");
             Console.WriteLine("Hint");
             Console.WriteLine("- ENTER");
             Console.WriteLine("- QUIT");
